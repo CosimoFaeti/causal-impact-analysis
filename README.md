@@ -1,5 +1,3 @@
-![cherubinFrontespizio](https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/7f563dcf-5ae6-4856-b8f8-0bd89fb4dbda)
-
 # Causal Impact Analysis
 This repository contains my Master's thesis in Data Science and Business Informatics at Università di Pisa, developed in collaboration with Eliq AB.
 
@@ -13,4 +11,20 @@ The structure of the thesis is organized as follows:
 * **Data Collection**: Describes the data used and how it was collected.
 * **Estimation**: Utilizes the data to estimate the identified causal quantity through causal inference models.
 * **Conclusions**: Wraps up the discussion with concluding remarks and advises possible future works.
----
+
+## Repository Overview
+In this repository, in the root level, you can find the pdf version of the thesis, the Power Point final presentation and the code for the pre-processing step, implementation of Interrupted Time Series (ITS) and Bayesian Structural Time Series (BSTS) models, and inference analysis. More specifically:
+
+Pre-processing
+* CausalInference_preprocessing.ipynb : contains the pre-processing step
+
+Interrupted Time Series model:
+* CausalInference_ITS.ipynb : contains the implementation of ITS model (Ordinary Least Squares, OLS)
+
+Bayesian Structural Time Series model:
+* CausalInference_BSTS_1.ipynb : contains the implementation of BSTS model (Maximum Likelihood Estimation, MLE)
+* CausalInference_BSTS_2.ipynb : contains the implementation of BSTS model (Variational Inference, VI)
+* CausalInference_BSTS_3.ipynb : contains the implementation of BSTS model (Hamiltonian Monte Carlo, HMC)
+
+Inference analysis:
+* Inference_FINAL.ipynb : contains the inference analysis
