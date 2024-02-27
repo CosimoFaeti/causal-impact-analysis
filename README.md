@@ -1,5 +1,3 @@
-![cherubinFrontespizio](https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/f6434ea2-d78d-4060-96e2-039f986b8624)
-
 # Causal Impact Analysis
 This repository contains my Master's thesis in Data Science and Business Informatics at Università di Pisa, developed in collaboration with Eliq AB.
 
