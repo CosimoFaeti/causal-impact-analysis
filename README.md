@@ -1,5 +1,6 @@
 <img src="https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/d2f0b181-d116-48c8-9539-d273a5d9ccb0" width="50%">
 ![eliq_logo](https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/b0c1f682-8d14-4768-ac3b-8ff356a83e70)
+![eliq_logo](https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/0d82cc90-9ffa-46f4-b63c-58c2b97193d3)
 
 
 # Causal Impact Analysis
