@@ -1,5 +1,5 @@
 
-![unipi](https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/d2f0b181-d116-48c8-9539-d273a5d9ccb0)
+<img src="https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/d2f0b181-d116-48c8-9539-d273a5d9ccb0" width="50%">
 
 # Causal Impact Analysis
 This repository contains my Master's thesis in Data Science and Business Informatics at Università di Pisa, developed in collaboration with Eliq AB.
