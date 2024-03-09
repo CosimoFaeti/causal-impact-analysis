@@ -1,4 +1,4 @@
-<p float="left">
+<p align="center">
   <img src="https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/e671ee3f-5956-4a1c-88f2-156f1c1000ab" alt="unipi" width="30%">
   <img src="https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/2f1a5bb2-b77c-4845-ace7-c8eca89ad336" alt="Eliq logo" width="20%">
 </p>
