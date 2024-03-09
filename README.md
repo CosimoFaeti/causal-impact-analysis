@@ -1,6 +1,6 @@
 <p float="left">
-  <img src="https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/5febfca1-5af7-41c5-9684-a2410c1c8c23" alt="unipi" width="30%">
-  <img src="https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/2f1a5bb2-b77c-4845-ace7-c8eca89ad336" alt="Eliq logo" width="70%">
+  <img src="https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/e671ee3f-5956-4a1c-88f2-156f1c1000ab" alt="unipi" width="30%">
+  <img src="https://github.com/CosimoFaeti/causal-impact-analysis/assets/99746565/2f1a5bb2-b77c-4845-ace7-c8eca89ad336" alt="Eliq logo" width="20%">
 </p>
 
 
